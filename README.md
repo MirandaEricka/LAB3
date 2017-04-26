@@ -1,2 +1,2 @@
 # TLE 9 Web Design Class Repository
-Using ol and ul tags in promoting an item
+Linking sections of a page and other sites, externally and internally
